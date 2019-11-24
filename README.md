@@ -1,2 +1,2 @@
 # C++ Projects
-Implementation of Simple Projects in C++ 
+Implementation of Simple School Management System In C++ 
